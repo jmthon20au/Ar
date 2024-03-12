@@ -6,6 +6,8 @@ pyrogram
 
 pyromod
 
+tuple
+
 certifi==2022.6.15
 
 charset-normalizer==2.1.0
